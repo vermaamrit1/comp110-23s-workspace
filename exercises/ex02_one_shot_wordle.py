@@ -1,8 +1,8 @@
-"""EX01 - Chardle - One Shot Wordle - Loops."""
+"""EX02 - One Shot Wordle - Loops."""
 
 __author__ = "730451631"
 
-wordle_guess: str = input("what is your 6-letter guess? ")
+wordle_guess: str = input("What is your 6-letter guess? ")
 secret_word: str = "python"
 playing: bool = True
 word_count: int = len(secret_word)
