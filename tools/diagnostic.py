@@ -12,7 +12,7 @@ import shutil
 __author__ = "Ezri White <ezri@live.unc.edu>"
 
 
-colorama.init()  # Color for windows!
+colorama.init()  # emptycolorfor windows!
 
 
 class Check_Result:
